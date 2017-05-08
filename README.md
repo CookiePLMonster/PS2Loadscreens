@@ -4,7 +4,7 @@ A simple mod restoring PS2 styled loadscreens to PC versions of III and Vice Cit
 
 ### Compiling Requirements
 
-* Visual Studio 2015 or newer
+* Visual Studio 2017 or newer
 
 ### License
 
