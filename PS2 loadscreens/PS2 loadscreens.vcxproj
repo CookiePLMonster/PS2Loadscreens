@@ -108,6 +108,10 @@
   <ItemGroup>
     <ClInclude Include="MemoryMgr.h" />
     <ClInclude Include="Patterns.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PS2 loadscreens.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
