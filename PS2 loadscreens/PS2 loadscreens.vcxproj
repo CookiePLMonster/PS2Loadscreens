@@ -102,10 +102,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Patterns.cpp" />
     <ClCompile Include="ps2loadscreens.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MemoryMgr.h" />
+    <ClInclude Include="Patterns.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
